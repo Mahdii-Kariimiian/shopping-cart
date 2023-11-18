@@ -17,11 +17,11 @@ To Do list with React and MUI library
 This is my first attempt to use React and Mui library.
 
 ### Screenshot
+![to do list screenshot (1)](https://github.com/Mahdii-Kariimiian/shopping-cart/assets/134393975/eadea537-9c28-4fb6-acc1-fcfa58be8f5e)
 
-## Overview
+![to do list screenshot (2)](https://github.com/Mahdii-Kariimiian/shopping-cart/assets/134393975/e4a2201f-2060-4c8f-ac82-0343a8ff2d9c)
 
-![Alt text](<to do list screenshot (1).png>)
-![Alt text](<to do list screenshot (2).png>)![Alt text](<to do list screenshot (3).png>)
+![to do list screenshot (3)](https://github.com/Mahdii-Kariimiian/shopping-cart/assets/134393975/a1ffec84-4afc-4ee2-9802-36141d14cfa4)
 
 ### Links
 
