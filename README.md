@@ -34,5 +34,4 @@ This is my first attempt to use React and Mui library.
 
 Mahdi Karimian
 -linkedin (www.linkedin.com/in/mahdi-karimian-116643273)
-
--   Frontend Mentor – @Mahdii-Kariimiian (https://www.frontendmentor.io/profile/Mahdii-Kariimiian)
+-Frontend Mentor – @Mahdii-Kariimiian (https://www.frontendmentor.io/profile/Mahdii-Kariimiian)
